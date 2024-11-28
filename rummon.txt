@@ -1,0 +1,4 @@
+1.bg show then pack come to  left side & food come  to  right side.
+2.bg show then pack come to  upper side & product come  to  right side.
+3.bg show then pack come to  bottom right side & bowl come  to left side and bowl pulse
+this process continue with looping.
